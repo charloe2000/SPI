@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/changeImg_item"
+        android:title="Image" />
+
+    <item
+        android:id="@+id/changeProBar_item"
+        android:title="ProBarVisible" />
+
+    <item
+        android:id="@+id/updateProBar_item"
+        android:title="UpdateProBar" />
+
+    <item
+        android:id="@+id/alertDialog_item"
+        android:title="Dialog" />
+</menu>
