@@ -56,3 +56,70 @@
 
     The futility of her trying to move this large rock is saddening.
 
+## 2021/3/16
+
+1. glare v.怒视 瞪眼
+
+2. grease n.油脂 润滑脂
+
+   The machanic is applying a lubricating grease to the bearing.
+
+3. herb n.草本植物
+
+   Herb can be used, when cooking, to add flavor to a dish.
+
+4. minor adj.较小的
+
+   Zero is the minor one amongst there numbers.
+
+5. potent adj.强效力的 烈性的
+
+   Potent drugs might have twice the effect of normal ones.
+
+6. composition n.成分
+
+   The main composition of soil includes gravel, water and etc.
+
+7. sneak v.鬼鬼祟祟的走 潜行
+
+   The boy took off his shoes so that he could sneak around.
+
+8. disastrous adj.灾难性的
+
+   The fire was disastrous and caused great damage to the church.
+
+9. gauge n.测量仪 尺度
+
+   The pressure gauge indicated the pressure of the water in the pipe.
+
+10. prestige n.威望
+
+    He has considerable prestige owed to his educational achievements.
+
+11. violate v.违背
+
+    The bird's behavor violate the sign's rules.
+
+12. accord n.协议
+
+    The two countries reached a peace accord to end the war.
+
+13. temptation n.诱惑
+
+    He gave in to his temptation to try the desserts.
+
+14. giggle v.咯咯的笑
+
+    The little baby can't stop giggling when having his first swimming.
+
+15. filter n.过滤器
+
+    Each layer filters smaller particles from the air.
+
+16. benign adj.无害的
+
+    Reasonable use of your smartphone is relatively benign.
+
+17. addiction n.上瘾
+
+    His addiction to alcohol gradually deepened.
