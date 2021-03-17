@@ -123,3 +123,55 @@
 17. addiction n.上瘾
 
     His addiction to alcohol gradually deepened.
+
+## 2021/3/17
+
+1. fragrant adj.芬芳的 香的
+
+2. misleading adj.误导的
+
+   The leaves are very misleading; he's chosen the smallest carrot!
+
+3. unevenly adj.不均匀的
+
+   The company's resources have been unevenly distributed.
+
+4. glamor n.魅力 吸引力
+
+   This beautiful blonde girl has so much style and glamor.
+
+5. revelation n.揭露
+
+   The revelation that he stole from his company was exposed.
+
+6. livelihood n.生计
+
+   This family's livelihood depends on the produce from the farm.
+
+7. collide v.相撞
+
+   The cars collided because the road was slippery.
+
+8. embark v.开始 着手
+
+   She embarked on a new career as a writer after quitting as a doctor.
+
+9. cliff n.悬崖
+
+   Don't go too close to the edge of the steep cliff.
+
+10. brew v.（风暴、危机）酝酿 即将来临
+
+    Trouble was brewing outside the stadium as rival fans were gathering.
+
+11. fraudulent adj.欺诈的
+
+    The fraudulent call is to get money by deception.
+
+12. gorge n.峡谷
+
+    This gorge is famous by its spectacular views.
+
+13. emergence n.冒出 浮现
+
+    This picture shows the plants' slow emergence from the soil.
